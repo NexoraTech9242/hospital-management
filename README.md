@@ -151,13 +151,6 @@ PRs and issues are welcome! Please describe the problem, steps to reproduce, and
 
 This project is open-source under the **MIT License**.
 
----
-
-## 📧 Contact
-
-Maintainer: **Esteham H. Zihad Ansari**
-Repository: `https://github.com/esteham/hospital-management`
-
 ```
 
 ---
